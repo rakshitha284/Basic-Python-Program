@@ -1,0 +1,5 @@
+//concatinate first  name and last name //
+a=input("enter the first name")
+b=input("enter the last name")
+full_name = a +" "+b
+print("full name:",full_name)
