@@ -1,0 +1,3 @@
+//input from user and print it//
+name=input("enter yourname")
+print("your name:",name)
