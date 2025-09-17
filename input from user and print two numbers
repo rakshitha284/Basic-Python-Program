@@ -1,0 +1,6 @@
+//get input from the users aned print two numbers//
+num1=input("enter 1st number")
+num2=input("enter 2nd number")
+print("first number:",num1);
+print("second number:",num2);
+
