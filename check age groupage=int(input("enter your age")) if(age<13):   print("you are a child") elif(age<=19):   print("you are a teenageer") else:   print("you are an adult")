@@ -1,0 +1,8 @@
+//using python program to check age group//
+age=int(input("enter your age"))
+if(age<13):
+  print("you are a child")
+elif(age<=19):
+  print("you are a teenageer")
+else:
+  print("you are an adult")    
